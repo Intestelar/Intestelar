@@ -10,7 +10,7 @@
 <a href="https://twitter.com/Interstellar_21">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="@reddx_rockz">
+<a href="reddx_rockz">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br />
