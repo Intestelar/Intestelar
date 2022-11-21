@@ -23,8 +23,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dark-smoky)
 
 <br />
-<a href=#><img src="https://github.com/daweedkob/daweedkob/blob/20294099196baeccf9ed3980e0eb2a37a489a6d2/contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Intestelar/count.svg" />
