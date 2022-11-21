@@ -18,8 +18,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br />
-<br />
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dark-smoky)
 
 <br />
