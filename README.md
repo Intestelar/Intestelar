@@ -23,7 +23,11 @@
 <br />
 <br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dark-smoky)
+</br>
+
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=Intestelar&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
+
+</br>
 
 <br />
 <p align="center"> 
