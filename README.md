@@ -19,8 +19,8 @@
 <a href="https://www.instagram.com/reddx_rockz/">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />
+<a href="Interstellar#9017">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a>
 <br />
 <br />
