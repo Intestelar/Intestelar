@@ -19,9 +19,6 @@
 <a href="https://www.instagram.com/reddx_rockz/">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-</a>
 <br />
 <br />
 <br />
