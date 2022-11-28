@@ -23,7 +23,7 @@
 <br />
 <br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dark-smoky)
+
 
 <br />
 <p align="center"> 
