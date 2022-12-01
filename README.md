@@ -20,16 +20,13 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br />
-<br />
-<br />
-
-</br>
-
-<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=Intestelar&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
 
 </br>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dracula" alt="Intestelar" /></p>
+</br>
+</br>
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=Intestelar&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
 
 </br>
 </br>
