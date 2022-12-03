@@ -26,10 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dracula" alt="Intestelar" /></p>
 </br>
 </br>
-<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=Intestelar&layout=compact&theme=github-dark" alt="Intestelar's GitHub  Activity"/>
-
-</br>
-</br>
 <br />
 <p align="center"> 
   Visitor count<br>
