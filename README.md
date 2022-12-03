@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishnu Vardhan
+- 👋 Hi, I’m @Vishnu Vardhan Reddy
 - 🌱 I’m currently learning new skills
 
 
