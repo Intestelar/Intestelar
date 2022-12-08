@@ -1,3 +1,6 @@
+<img align="right" src="https://tenor.com/en-GB/view/bahroo-hacker-panda-hacking-cool-gif-15741061.gif" width="380" height="220" > 
+
+
 - 👋 Hi, I’m @Vishnu Vardhan Reddy
 - 🌱 I’m currently learning skills
 
