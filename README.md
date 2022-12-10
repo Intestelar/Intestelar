@@ -16,7 +16,6 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
-
 - 👋 I’m Vishnu Vardhan Reddy
 - 🌱 I’m currently learning skills
 
