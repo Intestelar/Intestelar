@@ -40,7 +40,6 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH-->
 <img src="https://raw.githubusercontent.com/Intestelar/Intestelar/output/github-contribution-grid-snake.svg" width="100%">
-
 </br>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dracula" alt="Intestelar" /></p>
