@@ -34,7 +34,9 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br />
+
 <div align="center">
+  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -56,7 +58,7 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
+  
 </div>
 
 <!--🐍💬SNAKETITLE-->
