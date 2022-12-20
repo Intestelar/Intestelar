@@ -35,6 +35,27 @@
 </a>
 <br />
 
+<!--🐍💬SNAKETITLE-->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍📈SNAKEGRAPH-->
+<img src="https://raw.githubusercontent.com/Intestelar/Intestelar/output/github-contribution-grid-snake.svg" width="100%">
+
+</br>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dracula" alt="Intestelar" /></p>
+</br>
+<br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Intestelar/count.svg" />
+</p>
+</br>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
 <div align="center">
   
 ```diff
@@ -60,24 +81,3 @@
 ```
   
 </div>
-
-<!--🐍💬SNAKETITLE-->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH-->
-<img src="https://raw.githubusercontent.com/Intestelar/Intestelar/output/github-contribution-grid-snake.svg" width="100%">
-
-</br>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dracula" alt="Intestelar" /></p>
-</br>
-<br />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Intestelar/count.svg" />
-</p>
-</br>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
