@@ -33,6 +33,7 @@
 <br />
 
 <!--🐍💬SNAKETITLE-->
+
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH-->
