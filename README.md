@@ -51,7 +51,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 <!--📏LINE-->
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <div align="center">
