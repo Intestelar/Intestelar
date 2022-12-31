@@ -1,6 +1,6 @@
 <!--👋HELLO EVERYBODY-->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=9000&center=true&lines=Hello+Everybody">
 </br>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
@@ -11,6 +11,7 @@
 </br>
 </br>
 
+- I'm Vishnu Vardhan Reddy
 - 🌱 I’m currently learning new skills
 
 -  📫 How to reach me 
