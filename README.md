@@ -11,7 +11,7 @@
 </br>
 </br>
 
-- 🌱 I’m currently learning skills
+- 🌱 I’m currently learning new skills
 
 -  📫 How to reach me 
 <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-962aaa1a7/">
