@@ -59,7 +59,6 @@
 +@@(___.'     '.___)                                    @@+
 @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
 ```
-  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
