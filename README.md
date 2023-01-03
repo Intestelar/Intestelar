@@ -32,7 +32,7 @@
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=dark" alt="Intestelar"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intestelar&theme=light" alt="Intestelar"/></p>
 </br>
 </br>
 
