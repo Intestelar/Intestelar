@@ -32,8 +32,6 @@
 <!--🐍💬SNAKETITLE-->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH-->
-<img src="https://raw.githubusercontent.com/Intestelar/Intestelar/output/github-contribution-grid-snake.svg" width="100%">
 
 </br>
 </br>
