@@ -29,9 +29,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br />
-<!--🐍💬SNAKETITLE-->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 </br>
 </br>
