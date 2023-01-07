@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning new skills
 
--  📫 How to reach me 
+-  📫 My Socials are:
 <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-962aaa1a7/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
