@@ -4,6 +4,7 @@
 </br>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--CAPSULE-->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
